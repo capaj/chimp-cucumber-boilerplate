@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "chimp"
+  },
+  "dependencies": {
+    "chimp": "^0.48.0"
+  }
+}
